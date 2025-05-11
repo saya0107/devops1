@@ -1,2 +1,2 @@
 # devops1
-my frist devops repository
+my first devops repository
